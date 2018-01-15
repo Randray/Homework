@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task2._1._1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i;
+            int j;
+
+            for(i =0; i<5; i++ ) { Console.WriteLine("*");
+
+                for(j=1)
+
+
+            }
+
+            Console.Read();
+           
+
+
+
+
+
+        }
+    }
+}
