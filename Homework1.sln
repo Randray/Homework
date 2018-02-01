@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4.5", "Homework4.5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkvko4.6", "Homeworkvko4.6\Homeworkvko4.6.csproj", "{BFB5E9DB-EB1A-43B4-935E-C7730AA74658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0039C3ED-1F26-46E7-B7DC-91193F8117C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaceexsample", "Interfaceexsample\Interfaceexsample.csproj", "{EE095C1D-9A62-4A56-B515-6DE69E960759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{BFB5E9DB-EB1A-43B4-935E-C7730AA74658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB5E9DB-EB1A-43B4-935E-C7730AA74658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB5E9DB-EB1A-43B4-935E-C7730AA74658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0039C3ED-1F26-46E7-B7DC-91193F8117C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0039C3ED-1F26-46E7-B7DC-91193F8117C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0039C3ED-1F26-46E7-B7DC-91193F8117C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0039C3ED-1F26-46E7-B7DC-91193F8117C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE095C1D-9A62-4A56-B515-6DE69E960759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE095C1D-9A62-4A56-B515-6DE69E960759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE095C1D-9A62-4A56-B515-6DE69E960759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE095C1D-9A62-4A56-B515-6DE69E960759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
